@@ -1,14 +1,3 @@
-list.Set("DesktopWindows", "IGS",{
-	title = "Автодонат",
-	icon  = "icon16/money_add.png",
-	init  = function()
-		IGS.UI()
-	end
-})
-
-
-
-
 --[[------------------------------------------------------
 	Отобразится при первом открытии менюшки пополнения счета
 	https://img.qweqwe.ovh/1492376581692.png - вот так
